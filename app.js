@@ -4,4 +4,4 @@ const test2 = require('test2');
 class Test {
 }
 
-module.exports = test;
+module.exports = Test;
