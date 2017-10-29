@@ -1,7 +1,6 @@
 - pipeline: "xmr"
   trigger_mode: "ON_EVERY_PUSH"
   ref_name: "master"
-  
   actions:
   - action: "Execute: xmr"
     type: "BUILD"
